@@ -1,0 +1,10 @@
+Phase 5 Summary - IBP Scenario Planning
+==================================================
+Baseline Inventory: $85.08M
+Sc1 Class A Demand +20%: Days Cover 92.6, Shortage 0
+Sc2 Lead Time +30%: Shortage 15 parts (mostly Class C)
+Sc3 SUP033 Quality 50% blocked: Impact $6.3M, Shortage 0
+Sc4 Combined Shock: Shortage 16 parts, Value at Risk $0.96M
+
+Key Insight: High excess inventory provides a strong buffer against shocks.
+Recommendation: Reduce excess systematically while dual-sourcing high-risk suppliers.
