@@ -1,0 +1,8 @@
+Phase 2 Summary - Demand Planning & Forecast Accuracy
+==================================================
+Overall WAPE (Part-Week): 30.30%
+Overall Bias: +2.02%
+FVA (Baseline - Adjusted): -1.25%
+Planned WAPE: 56%
+Unplanned WAPE: 70%
+Demand Type: Smooth 82% | Erratic 18%
