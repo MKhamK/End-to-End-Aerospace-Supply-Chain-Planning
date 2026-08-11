@@ -1,0 +1,6 @@
+Phase 4 Summary - Supplier Performance & Risk
+==================================================
+Overall OTIF: 39.7% | On-time: 44.2% | In-full: 88.7%
+Highest Risk: SUP033 (OTIF 3.0%, Risk Index 74)
+Class A Suppliers: 24 | OTIF<40%: 11 | Critical QI: 11
+Key Risk Suppliers: SUP033, SUP013, SUP038
