@@ -1,0 +1,8 @@
+Phase 3 Summary - Inventory & Warehouse Management
+=======================================================
+Days of Coverage (avg): A 111 | B 87 | C 78 days
+Inventory Turns (avg): A 3.9 | B 5.1 | C 6.0
+Excess Parts: 121 / 300
+Excess Inventory Value: ~$53.3M
+Potential Reduction (Recommended Policy): ~$56.4M
+on_hand vs Safety Stock (avg range): 6-7x
